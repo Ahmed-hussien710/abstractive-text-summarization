@@ -24,7 +24,7 @@ Visualization: matplotlib, seaborn, wordcloud
 
 Data Handling: pandas, numpy
 
-📂 Data Used`
+`📂 Data Used`
 Two CSV datasets:
 
 news_summary.csv
